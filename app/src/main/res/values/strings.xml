@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Keyboard Samples</string>
+    <string name="button_main">SHOW</string>
+    <string name="enter_phone">Enter a Phone Number</string>
+</resources>
